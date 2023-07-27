@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on QAU-NA</title>
-    <link>http://quaidiansna.com/tags/</link>
-    <description>Recent content in Tags on QAU-NA</description>
+    <title>Tags on Touchy Hugo | Minimal Blog Theme</title>
+    <link>https://demo.gethugothemes.com/touchy/examplesite/tags/</link>
+    <description>Recent content in Tags on Touchy Hugo | Minimal Blog Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language><atom:link href="http://quaidiansna.com/tags/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://demo.gethugothemes.com/touchy/examplesite/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

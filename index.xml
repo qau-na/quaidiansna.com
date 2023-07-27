@@ -1,37 +1,67 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>QAU-NA</title>
-    <link>http://quaidiansna.com/</link>
-    <description>Recent content on QAU-NA</description>
+    <title>Touchy Hugo | Minimal Blog Theme</title>
+    <link>https://demo.gethugothemes.com/touchy/examplesite/</link>
+    <description>Recent content on Touchy Hugo | Minimal Blog Theme</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en</language>
-    <lastBuildDate>Sat, 18 Apr 2020 10:07:21 +0600</lastBuildDate><atom:link href="http://quaidiansna.com/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language><atom:link href="https://demo.gethugothemes.com/touchy/examplesite/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Brief History of QAU-NA</title>
-      <link>http://quaidiansna.com/events2/post-1/</link>
-      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      <title>Contact</title>
+      <link>https://demo.gethugothemes.com/touchy/examplesite/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://quaidiansna.com/events2/post-1/</guid>
-      <description>For quite some time, some of the former senior Quadians now based in North America have been discussing the need to establish QAU Alumni in North America.</description>
+      <guid>https://demo.gethugothemes.com/touchy/examplesite/contact/</guid>
+      <description>Contact Page Is Coming Soon . . . </description>
     </item>
     
     <item>
-      <title>QAU-NA Launch</title>
-      <link>http://quaidiansna.com/blog/post-1/</link>
-      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      <title>Elements</title>
+      <link>https://demo.gethugothemes.com/touchy/examplesite/elements/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://quaidiansna.com/blog/post-1/</guid>
-      <description>On 8th October 2022, the Quaid-e-Azam University Alumni Association North America (QAU-NA) was launched in a gathering at Oakville, Ontario, of about seventy members and thirty of their family members.</description>
+      <guid>https://demo.gethugothemes.com/touchy/examplesite/elements/</guid>
+      <description>Heading example Here is example of hedings. You can use this heading by following markdownify rules. For example: use # for heading 1 and use ###### for heading 6.
+Heading 1 Heading 2 Heading 3 Heading 4 Heading 5 Heading 6 Emphasis Emphasis, aka italics, with asterisks or underscores.
+Strong emphasis, aka bold, with asterisks or underscores.</description>
     </item>
     
     <item>
-      <title>QAU-NA Picture Gallery</title>
-      <link>http://quaidiansna.com/blog/post-2/</link>
-      <pubDate>Sat, 18 Apr 2020 10:07:21 +0600</pubDate>
+      <title>Membership</title>
+      <link>https://demo.gethugothemes.com/touchy/examplesite/membership/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://quaidiansna.com/blog/post-2/</guid>
-      <description> </description>
+      <guid>https://demo.gethugothemes.com/touchy/examplesite/membership/</guid>
+      <description>The QAU Alumni Association North America launches its membership campaign and would like to invite you to become its inaugural members by filling out the following form.
+Eligibillity The membership is open to everyone who has an affiliation with QAU in any of the following capacities:
+Received a degree, diploma, or certificate from the University in a certified program of one year or more (regular member)</description>
+    </item>
+    
+    <item>
+      <title>QAU-NA Journey</title>
+      <link>https://demo.gethugothemes.com/touchy/examplesite/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/touchy/examplesite/about/</guid>
+      <description>Interim Board Members (from left to right) - Sajida, Tariq, Faisel, Arshed, Umair, Saif, Farah, Khalid Some of the former senior Quadians, now based in North America, have been discussing the need to establish QAU Alumni in North America for quite some time. Since 2021 few former Quadians based in North America met multiple times in Toronto to formalize the alumni association.</description>
+    </item>
+    
+    <item>
+      <title>Terms And Conditions</title>
+      <link>https://demo.gethugothemes.com/touchy/examplesite/terms-conditions/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/touchy/examplesite/terms-conditions/</guid>
+      <description>Responsibility of Contributors Lorem ipsum dolor sit amet, consectetur adipiscing elit. Purus, donec nunc eros, ullamcorper id feugiat quisque aliquam sagittis. Sem turpis sed viverra massa gravida pharetra. Non dui dolor potenti eu dignissim fusce. Ultrices amet, in curabitur a arcu a lectus morbi id. Iaculis erat sagittis in tortor cursus.</description>
+    </item>
+    
+    <item>
+      <title>Welcome to QAU Alumni Association of North America (QAU-NA)</title>
+      <link>https://demo.gethugothemes.com/touchy/examplesite/post/post-2/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://demo.gethugothemes.com/touchy/examplesite/post/post-2/</guid>
+      <description></description>
     </item>
     
   </channel>
